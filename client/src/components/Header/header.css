@@ -1,0 +1,38 @@
+
+
+header {
+  min-height: 100vh;
+  background-image: url(../../assets/platohd.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.textos {
+  position: absolute;
+  top: 50%;
+  margin-left: 2rem;
+  transform: translateY(-50%);
+  font-weight: 500;
+  font-size: 1.5rem;
+  width: 30%;
+  line-height: 2;
+}
+
+header span {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+header p{
+  letter-spacing: 1px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 1rem 1.5rem;
+  border-radius: 15px;
+}
+
+@media screen and (max-width:768px) {
+    .textos {
+      width: 80%;
+    }
+}

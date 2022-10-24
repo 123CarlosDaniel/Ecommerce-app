@@ -1,0 +1,10 @@
+.Loader{ 
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Loader img {
+  width: 5rem;
+  text-align: center;
+}
+

@@ -1,0 +1,19 @@
+{
+  "productos" : [
+    {
+      "id" : 1,
+      "title" : "Alimentos",
+      "description" : "Alimentos para personas"
+    },
+    {
+      "id" : 2,
+      "title" : "Ropa",
+      "description" : "Ropa para personas"
+    },
+    {
+      "id" : 3,
+      "title" : "Electrodomésticos",
+      "description" : "Electrodomésticos para personas"
+    }
+  ]
+}

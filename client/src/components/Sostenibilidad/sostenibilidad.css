@@ -1,0 +1,25 @@
+.sostenibilidad {
+  margin-top: 2rem;
+  height: 80vh;
+  background-image: url(../../assets/trigo.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+
+  position: relative;
+}
+.sostenibilidad p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width:40% ;
+  font-size: 2rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .sostenibilidad p {
+    font-size: 1.5rem;
+    width: 80%;
+  }
+}

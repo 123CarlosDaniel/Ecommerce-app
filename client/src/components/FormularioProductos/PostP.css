@@ -1,0 +1,15 @@
+.product__select {
+  height: 40px;
+  padding-left: 10px;
+}
+
+.error_message {
+  background-color: red;
+  width: fit-content;
+  padding: 0.5rem 1rem;
+  margin: 0 auto;
+  border-radius: 0.5rem;
+  color: white;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+}
